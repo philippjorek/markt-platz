@@ -1,2 +1,2 @@
 # markt-platz
-Webportal und App
+Webportal und App.
